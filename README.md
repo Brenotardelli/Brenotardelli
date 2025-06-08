@@ -115,6 +115,14 @@ I'm a self-taught Front-End Developer passionate about creating projects from de
 
 <p>
 
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=Brenotardelli&show_icons=true&theme=tokyonight&include_all_commits=true&locale=en" 
+  />
+
 <img 
       align="left" 
       alt="GitHub Stats" 
