@@ -95,24 +95,3 @@ I'm a self-taught Front-End Developer passionate about creating projects from de
 
 <br/>
 <br/>
-
-### 📊 Statistics
-
-<p>
-
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Brenotardelli&show_icons=true&theme=tokyonight&include_all_commits=true&locale=en" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brenotardelli&theme=tokyonight&layout=compact&custom_title=Technologies&langs_count=9" 
-  />
-
-</p>
