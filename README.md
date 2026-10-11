@@ -1,97 +1,128 @@
 # 👨‍💻 Breno Tardelli
 
-**`Front-End Developer`**
-
-Hi, I'm Breno Tardelli! 👋
-I'm a self-taught Front-End Developer passionate about creating projects from design to code. I enjoy exploring new technologies, improving my skills, and building engaging user experiences. Always learning and evolving! 🚀
+### Front-End Developer | React • TypeScript • JavaScript
 
 <p align="left">
-    <a href="https://github.com/Brenotardelli?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Brenotardelli?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=stars"
-        />
-    </a>
-    <a href="https://github.com/Brenotardelli?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Brenotardelli?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Followers&logoColor=white"
-        />
-    </a>
+  <a href="https://github.com/Brenotardelli">
+    <img src="https://img.shields.io/badge/GitHub-Brenotardelli-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/brenotardelli">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=Brenotardelli&style=for-the-badge&color=6C63FF&label=PROFILE+VIEWS" alt="Profile views"/>
 </p>
 
 ---
 
-### 🤖 Languages & Technologies
+## 🚀 About Me
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Next.js" 
-    title="Next.js"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
-/>
+I'm a self-taught **Front-End Developer** passionate about building modern, responsive, and intuitive web applications.
 
-<img 
-    align="left" 
-    alt="Tailwind" 
-    title="Tailwind"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
-/>
+I enjoy turning ideas and designs into functional digital experiences, writing clean and maintainable code, and continuously improving my development skills.
 
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
+- 💻 Focused on Front-End Development.
+- ⚛️ Working with React, JavaScript, and TypeScript.
+- 🔌 Building applications that consume REST APIs.
+- 🎨 Interested in UI/UX, responsive design, and usability.
+- 📚 Always learning and exploring new technologies.
+- 🤝 Open to collaboration, learning opportunities, and new challenges.
 
-<br/>
-<br/>
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts" alt="HTML, CSS, JavaScript and TypeScript"/>
+</p>
+
+### Frameworks & Libraries
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react" alt="React"/>
+  <img src="https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" alt="React Query"/>
+</p>
+
+### Tools & Workflow
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,npm" alt="Git, GitHub, VS Code and npm"/>
+</p>
+
+### Concepts
+
+- Responsive Web Design
+- Component-Based Architecture
+- REST API Integration
+- State and Server-State Management
+- Reusable UI Components
+- Clean Code and Maintainability
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Brenotardelli&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brenotardelli&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used languages"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Brenotardelli&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
+</p>
+
+---
+
+## 🌟 Featured Projects
+
+### 🛒 Eletro Box
+
+**Product catalog built with React and TypeScript.**
+
+- Product listing, search, and details.
+- REST API integration.
+- Server-state management with React Query.
+
+[![Repository](https://img.shields.io/badge/Explore_Repository-181717?style=for-the-badge&logo=github)](https://github.com/Brenotardelli/eletro-box)
+
+### 🍔 Hamburguer Project
+
+A web project focused on building an engaging interface with CSS and front-end fundamentals.
+
+[![Repository](https://img.shields.io/badge/Explore_Repository-181717?style=for-the-badge&logo=github)](https://github.com/Brenotardelli/hamburguer-proj)
+
+### 🧠 Quiz
+
+An interactive quiz project built with JavaScript, focused on user interaction and application logic.
+
+[![Repository](https://img.shields.io/badge/Explore_Repository-181717?style=for-the-badge&logo=github)](https://github.com/Brenotardelli/quiz)
+
+---
+
+## 📈 Currently Improving
+
+- ⚛️ Building more robust React applications.
+- 🔷 Deepening my TypeScript knowledge.
+- 🔌 Improving API integration and data handling.
+- 🧩 Writing reusable, maintainable components.
+- 🎯 Developing projects that demonstrate real-world problem-solving.
+
+---
+
+## 🤝 Let's Connect
+
+I'm always interested in connecting with developers, exchanging knowledge, and exploring opportunities to build great products.
+
+<p align="left">
+  <a href="https://github.com/Brenotardelli">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/brenotardelli">
+    <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  </a>
+</p>
+
+<p align="center">
+  <i>"Always learning. Always building. Always improving."</i> 🚀
+</p>
