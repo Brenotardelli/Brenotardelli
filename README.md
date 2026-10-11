@@ -9,7 +9,6 @@
   <a href="https://www.linkedin.com/in/brenotardelli">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=Brenotardelli&label=PROFILE%20VIEWS&color=6C63FF&style=for-the-badge" alt="Profile views" />
 </p>
 
 ---
@@ -65,38 +64,11 @@ I enjoy turning ideas and designs into functional digital experiences, writing c
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=Brenotardelli&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brenotardelli&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used languages - public repositories" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Brenotardelli&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
 </p>
-
----
-
-## Featured Projects
-
-### Eletro Box
-
-Product catalog built with React and TypeScript.
-
-- Product listing, search, and details.
-- REST API integration.
-- Server-state management with React Query.
-
-[Explore the repository](https://github.com/Brenotardelli/eletro-box)
-
-### Hamburguer Project
-
-A web project focused on building an engaging interface with CSS and front-end fundamentals.
-
-[Explore the repository](https://github.com/Brenotardelli/hamburguer-proj)
-
-### Quiz
-
-An interactive quiz project built with JavaScript, focused on user interaction and application logic.
-
-[Explore the repository](https://github.com/Brenotardelli/quiz)
 
 ---
 
