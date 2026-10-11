@@ -28,27 +28,6 @@ I enjoy turning ideas and designs into functional digital experiences, writing c
 
 ---
 
-## Tech Stack
-
-### Languages
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts" alt="HTML, CSS, JavaScript and TypeScript" />
-</p>
-
-### Frameworks & Libraries
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react" alt="React" />
-  <img src="https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" alt="React Query" />
-</p>
-
-### Tools & Workflow
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,npm" alt="Git, GitHub, VS Code and npm" />
-</p>
-
 ### Concepts
 
 - Responsive Web Design
